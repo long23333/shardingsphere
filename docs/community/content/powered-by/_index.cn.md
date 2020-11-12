@@ -108,6 +108,7 @@ chapter = true
     <li><a href="https://www.dianwoda.com/" rel="nofollow">点我达</a></li>   
     <li><a href="https://www.keking.com" rel="nofollow">凯京科技</a></li>
     <li><a href="https://www.jdl.cn/" rel="nofollow">京东物流</a></li>
+    <li><a href="http://www.xbnwl.com/" rel="nofollow">喜百年供应链科技</a></li>
 </ul>
 
 ### 旅游服务
